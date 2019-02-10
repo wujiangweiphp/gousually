@@ -1,6 +1,6 @@
 # go语言常用的算法和数据结构
 
-### 排序算法
+### 一、排序算法
 
 1. 冒泡排序
 
@@ -17,6 +17,8 @@
 
 . 每一轮的比较都将最大或最小的元素冒泡到最后对应的位置
 
+
+[查看源代码](https://github.com/wujiangweiphp/gousually/blob/master/sort/bubble.go)
 
 
 
