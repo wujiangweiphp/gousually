@@ -59,6 +59,21 @@
 
 [查看源代码](https://github.com/wujiangweiphp/gousually/blob/master/sort/insert.go)
 
+#### 4. 快速排序
+
+> 快速排序 是每次寻找一个基准元素 ，分别在数组头尾放两个指针  先从右向左扫描 直到遇到比基准数小的元素，将该值赋值给左边的指针所在位置
+，然后左边指针向后移动一位，从左网右扫描，直到遇到左边比基准数大的元素，将之复制给右边指针所在位置，右边指针向前移动一位 开始从右往左扫描
+周而复始 直到左右两个指针相遇
+
+时间复杂度为O(nlogn)
+
+原理：
+
+![avatar](https://github.com/wujiangweiphp/gousually/blob/master/b.png)
+
+
+[查看源代码](https://github.com/wujiangweiphp/gousually/blob/master/sort/qsort.go)
+
 
 
 
