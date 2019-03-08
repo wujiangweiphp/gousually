@@ -72,7 +72,7 @@
 ![avatar](https://github.com/wujiangweiphp/gousually/blob/master/b.png)
 
 
-[查看源代码](https://github.com/wujiangweiphp/gousually/blob/master/sort/qsort.go)
+[查看源代码](https://github.com/wujiangweiphp/gousually/blob/master/sort/ksort.go)
 
 
 
